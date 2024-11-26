@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/792af7979c5248538b70852f06d0b53e/artifacts
+deleted_time: 1725545589977
+end_time: 1725543228712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 792af7979c5248538b70852f06d0b53e
+run_name: painted-gnat-158
+run_uuid: 792af7979c5248538b70852f06d0b53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543200857
+status: 3
+tags: []
+user_id: lillian

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/327f91f7561945ffb5b83f919542cd96/artifacts
+deleted_time: 1725545589987
+end_time: 1725543169469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 327f91f7561945ffb5b83f919542cd96
+run_name: rumbling-rat-451
+run_uuid: 327f91f7561945ffb5b83f919542cd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543127221
+status: 3
+tags: []
+user_id: lillian

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5c0016ec4d7b4064b14cf7389f4c2b81/artifacts
+deleted_time: 1725542996742
+end_time: 1725542906544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5c0016ec4d7b4064b14cf7389f4c2b81
+run_name: clumsy-loon-936
+run_uuid: 5c0016ec4d7b4064b14cf7389f4c2b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542808475
+status: 3
+tags: []
+user_id: lillian

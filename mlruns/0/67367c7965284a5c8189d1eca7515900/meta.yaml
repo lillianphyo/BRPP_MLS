@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/67367c7965284a5c8189d1eca7515900/artifacts
+deleted_time: 1725545589975
+end_time: 1725543282984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 67367c7965284a5c8189d1eca7515900
+run_name: silent-bird-890
+run_uuid: 67367c7965284a5c8189d1eca7515900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543229262
+status: 3
+tags: []
+user_id: lillian

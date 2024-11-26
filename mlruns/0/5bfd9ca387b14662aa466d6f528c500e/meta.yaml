@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5bfd9ca387b14662aa466d6f528c500e/artifacts
+deleted_time: 1725543009002
+end_time: 1725542707060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5bfd9ca387b14662aa466d6f528c500e
+run_name: overjoyed-pig-859
+run_uuid: 5bfd9ca387b14662aa466d6f528c500e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542633413
+status: 3
+tags: []
+user_id: lillian

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6d999e5d5337463f861cb33cacd2c4e0/artifacts
+end_time: 1725580449008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d999e5d5337463f861cb33cacd2c4e0
+run_name: chin
+run_uuid: 6d999e5d5337463f861cb33cacd2c4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725580382938
+status: 3
+tags: []
+user_id: lillian

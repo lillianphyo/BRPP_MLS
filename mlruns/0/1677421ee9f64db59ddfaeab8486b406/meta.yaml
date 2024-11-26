@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1677421ee9f64db59ddfaeab8486b406/artifacts
+deleted_time: 1725545589977
+end_time: 1725543200268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1677421ee9f64db59ddfaeab8486b406
+run_name: stately-panda-337
+run_uuid: 1677421ee9f64db59ddfaeab8486b406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543170134
+status: 3
+tags: []
+user_id: lillian

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d31ebd61f75e407197af6058d27632f8/artifacts
+end_time: 1725597455517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d31ebd61f75e407197af6058d27632f8
+run_name: rakhine
+run_uuid: d31ebd61f75e407197af6058d27632f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725597348449
+status: 3
+tags: []
+user_id: lillian

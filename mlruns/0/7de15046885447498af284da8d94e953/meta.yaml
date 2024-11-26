@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7de15046885447498af284da8d94e953/artifacts
+deleted_time: 1725545589965
+end_time: 1725543655407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7de15046885447498af284da8d94e953
+run_name: worried-croc-910
+run_uuid: 7de15046885447498af284da8d94e953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543497615
+status: 3
+tags: []
+user_id: lillian

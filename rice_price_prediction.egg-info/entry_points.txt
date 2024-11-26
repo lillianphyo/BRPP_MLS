@@ -1,0 +1,2 @@
+[console_scripts]
+train-model = utils.main:main

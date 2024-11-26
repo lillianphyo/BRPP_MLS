@@ -1,0 +1,8 @@
+flask
+mlflow
+tensorflow
+numpy
+pandas
+matplotlib
+psutil
+pytest

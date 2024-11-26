@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2224f43637b3462387220f6a8fdd36c5/artifacts
+deleted_time: 1725543009005
+end_time: 1725542595601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2224f43637b3462387220f6a8fdd36c5
+run_name: amazing-duck-731
+run_uuid: 2224f43637b3462387220f6a8fdd36c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542565847
+status: 3
+tags: []
+user_id: lillian

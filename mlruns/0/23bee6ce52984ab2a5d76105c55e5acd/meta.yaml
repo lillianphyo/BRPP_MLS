@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/23bee6ce52984ab2a5d76105c55e5acd/artifacts
+deleted_time: 1725545589987
+end_time: 1725543126680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23bee6ce52984ab2a5d76105c55e5acd
+run_name: tasteful-seal-349
+run_uuid: 23bee6ce52984ab2a5d76105c55e5acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543104188
+status: 3
+tags: []
+user_id: lillian

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4045fa6671244ea69cbb1c3af7b2f33a/artifacts
+deleted_time: 1725543009002
+end_time: 1725542632626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4045fa6671244ea69cbb1c3af7b2f33a
+run_name: big-snake-501
+run_uuid: 4045fa6671244ea69cbb1c3af7b2f33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542596348
+status: 3
+tags: []
+user_id: lillian

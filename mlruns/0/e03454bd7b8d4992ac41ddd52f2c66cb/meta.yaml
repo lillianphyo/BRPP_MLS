@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e03454bd7b8d4992ac41ddd52f2c66cb/artifacts
+deleted_time: 1725546754527
+end_time: 1725546397732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e03454bd7b8d4992ac41ddd52f2c66cb
+run_name: kayin
+run_uuid: e03454bd7b8d4992ac41ddd52f2c66cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546372585
+status: 3
+tags: []
+user_id: lillian

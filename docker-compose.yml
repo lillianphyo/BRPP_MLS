@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  flask-app:
+    build: .
+    container_name: mlops-flask-app
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+    volumes:
+      - .:/app
+    command: gunicorn --bind 0.0.0.0:5000 wsgi:app
+
+  mlflow:
+    image: mlflow/mlflow:latest
+    container_name: mlflow
+    environment:
+      - BACKEND_STORE_URI=sqlite:///mlflow.db
+      - ARTIFACT_ROOT=/mlflow/artifacts
+    volumes:
+      - ./mlflow:/mlflow
+    ports:
+      - "5001:5000"
+

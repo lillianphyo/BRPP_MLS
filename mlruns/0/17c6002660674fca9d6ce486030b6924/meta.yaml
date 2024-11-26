@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/17c6002660674fca9d6ce486030b6924/artifacts
+deleted_time: 1725545589975
+end_time: 1725543495817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 17c6002660674fca9d6ce486030b6924
+run_name: invincible-midge-185
+run_uuid: 17c6002660674fca9d6ce486030b6924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543366495
+status: 3
+tags: []
+user_id: lillian

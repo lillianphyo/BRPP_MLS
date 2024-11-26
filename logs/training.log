@@ -1,0 +1,364 @@
+2024-09-05 22:12:36,222 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-05 22:12:36,227 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-12-36.txt
+2024-09-05 22:14:13,826 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-05 22:14:13,830 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-14-13.txt
+2024-09-05 22:15:08,035 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-05 22:15:08,040 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-15-08.txt
+2024-09-05 22:15:12,579 - INFO - Loss plot saved as logs/loss_plot_kayah.png
+2024-09-05 22:15:12,579 - INFO - Market: kayah, MAE: 0.12359368642838338, RMSE: 0.19914452501488722, MSE: 0.039658541843405046, Accuracy: 86.07594936708861%, Duration: 34.05550765991211 seconds
+2024-09-05 22:15:12,621 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-05 22:15:12,625 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-15-12.txt
+2024-09-05 22:15:12,691 - INFO - Test Loss for kayah: 0.03965854272246361
+2024-09-05 22:15:12,780 - INFO - MAE: 114.57314507206783, RMSE: 225.81429670861922, MSE: 50992.09659800832
+2024-09-05 22:15:12,913 - INFO - Loss plot saved as loss_plot_kayah.png
+2024-09-05 22:15:13,026 - INFO - Plot saved as predicted_vs_actual_kayah.png
+2024-09-05 22:15:48,043 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-05 22:15:48,046 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-15-48.txt
+2024-09-05 22:15:51,480 - INFO - Loss plot saved as logs/loss_plot_kayin.png
+2024-09-05 22:15:51,480 - INFO - Market: kayin, MAE: 0.1400959322265506, RMSE: 0.19842531932313281, MSE: 0.03937260734848722, Accuracy: 86.27450980392157%, Duration: 38.223958015441895 seconds
+2024-09-05 22:15:51,514 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-05 22:15:51,517 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-15-51.txt
+2024-09-05 22:15:51,596 - INFO - Test Loss for kayin: 0.039372608065605164
+2024-09-05 22:15:51,681 - INFO - MAE: 128.31336780708375, RMSE: 273.64039152519933, MSE: 74879.06387406438
+2024-09-05 22:15:51,799 - INFO - Loss plot saved as loss_plot_kayin.png
+2024-09-05 22:15:51,925 - INFO - Plot saved as predicted_vs_actual_kayin.png
+2024-09-05 22:16:47,019 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-05 22:16:47,023 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-16-47.txt
+2024-09-05 22:16:50,508 - INFO - Loss plot saved as logs/loss_plot_magway.png
+2024-09-05 22:16:50,508 - INFO - Market: magway, MAE: 0.141882029063661, RMSE: 0.17885454080629476, MSE: 0.031988946767030554, Accuracy: 86.26045400238948%, Duration: 58.34223246574402 seconds
+2024-09-05 22:16:50,541 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-05 22:16:50,545 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-16-50.txt
+2024-09-05 22:16:50,696 - INFO - Test Loss for magway: 0.03198894113302231
+2024-09-05 22:16:50,849 - INFO - MAE: 125.20825974841557, RMSE: 223.80570367573992, MSE: 50088.9929977931
+2024-09-05 22:16:50,969 - INFO - Loss plot saved as loss_plot_magway.png
+2024-09-05 22:16:51,089 - INFO - Plot saved as predicted_vs_actual_magway.png
+2024-09-05 22:17:34,264 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-05 22:17:34,268 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-17-34.txt
+2024-09-05 22:17:37,770 - INFO - Loss plot saved as logs/loss_plot_tanintharyi.png
+2024-09-05 22:17:37,770 - INFO - Market: tanintharyi, MAE: 0.09087256629092103, RMSE: 0.1441993812647898, MSE: 0.020793461557148205, Accuracy: 78.95716945996276%, Duration: 46.44346785545349 seconds
+2024-09-05 22:17:37,804 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-05 22:17:37,808 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-17-37.txt
+2024-09-05 22:17:37,905 - INFO - Test Loss for tanintharyi: 0.020793456584215164
+2024-09-05 22:17:38,015 - INFO - MAE: 73.55871132621553, RMSE: 153.66391108255473, MSE: 23612.597569187288
+2024-09-05 22:17:38,138 - INFO - Loss plot saved as loss_plot_tanintharyi.png
+2024-09-05 22:17:38,255 - INFO - Plot saved as predicted_vs_actual_tanintharyi.png
+2024-09-05 22:18:17,052 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-05 22:18:17,056 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-18-17.txt
+2024-09-05 22:18:20,477 - INFO - Loss plot saved as logs/loss_plot_sagaing.png
+2024-09-05 22:18:20,477 - INFO - Market: sagaing, MAE: 0.10601529531597935, RMSE: 0.17368916175606802, MSE: 0.030167924911525566, Accuracy: 88.46960167714884%, Duration: 41.98502826690674 seconds
+2024-09-05 22:18:20,518 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-05 22:18:20,522 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-18-20.txt
+2024-09-05 22:18:20,619 - INFO - Test Loss for sagaing: 0.030167926102876663
+2024-09-05 22:18:20,716 - INFO - MAE: 112.0586042628898, RMSE: 250.63240577644225, MSE: 62816.602825287206
+2024-09-05 22:18:20,830 - INFO - Loss plot saved as loss_plot_sagaing.png
+2024-09-05 22:18:20,947 - INFO - Plot saved as predicted_vs_actual_sagaing.png
+2024-09-05 22:19:24,421 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-05 22:19:24,425 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-19-24.txt
+2024-09-05 22:19:28,227 - INFO - Loss plot saved as logs/loss_plot_chin.png
+2024-09-05 22:19:28,227 - INFO - Market: chin, MAE: 0.08838564564005351, RMSE: 0.15059757644443736, MSE: 0.02267963003093815, Accuracy: 93.49164467897977%, Duration: 67.04569625854492 seconds
+2024-09-05 22:19:28,266 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-05 22:19:28,269 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-19-28.txt
+2024-09-05 22:19:28,454 - INFO - Test Loss for chin: 0.022679630666971207
+2024-09-05 22:19:28,662 - INFO - MAE: 62.84171494295226, RMSE: 145.82421125860472, MSE: 21264.70058919418
+2024-09-05 22:19:28,771 - INFO - Loss plot saved as loss_plot_chin.png
+2024-09-05 22:19:28,933 - INFO - Plot saved as predicted_vs_actual_chin.png
+2024-09-05 22:20:25,284 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-05 22:20:25,288 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-20-25.txt
+2024-09-05 22:20:28,761 - INFO - Loss plot saved as logs/loss_plot_yangon.png
+2024-09-05 22:20:28,762 - INFO - Market: yangon, MAE: 0.12357377605913132, RMSE: 0.16226077209135184, MSE: 0.026328558159681624, Accuracy: 81.71368861024033%, Duration: 59.596111536026 seconds
+2024-09-05 22:20:28,806 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-05 22:20:28,810 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-20-28.txt
+2024-09-05 22:20:28,958 - INFO - Test Loss for yangon: 0.02632855996489525
+2024-09-05 22:20:29,148 - INFO - MAE: 94.3801171033136, RMSE: 172.64562597512335, MSE: 29806.512168342182
+2024-09-05 22:20:29,274 - INFO - Loss plot saved as loss_plot_yangon.png
+2024-09-05 22:20:29,421 - INFO - Plot saved as predicted_vs_actual_yangon.png
+2024-09-05 22:21:09,227 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-05 22:21:09,231 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-21-09.txt
+2024-09-05 22:21:12,712 - INFO - Loss plot saved as logs/loss_plot_mandalay.png
+2024-09-05 22:21:12,712 - INFO - Market: mandalay, MAE: 0.17640476117409865, RMSE: 0.204647819129819, MSE: 0.041880729874591106, Accuracy: 84.90566037735849%, Duration: 43.04361939430237 seconds
+2024-09-05 22:21:12,751 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-05 22:21:12,754 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-21-12.txt
+2024-09-05 22:21:12,845 - INFO - Test Loss for mandalay: 0.04188073053956032
+2024-09-05 22:21:12,944 - INFO - MAE: 139.42102143165698, RMSE: 205.6488127123708, MSE: 42291.434170007764
+2024-09-05 22:21:13,056 - INFO - Loss plot saved as loss_plot_mandalay.png
+2024-09-05 22:21:13,168 - INFO - Plot saved as predicted_vs_actual_mandalay.png
+2024-09-05 22:23:29,016 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-05 22:23:29,020 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-23-29.txt
+2024-09-05 22:23:33,213 - INFO - Loss plot saved as logs/loss_plot_rakhine.png
+2024-09-05 22:23:33,213 - INFO - Market: rakhine, MAE: 0.09805603794576066, RMSE: 0.16766354015207036, MSE: 0.02811106269632491, Accuracy: 87.62095428762096%, Duration: 139.79141855239868 seconds
+2024-09-05 22:23:33,257 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-05 22:23:33,260 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-23-33.txt
+2024-09-05 22:23:33,714 - INFO - Test Loss for rakhine: 0.02811107039451599
+2024-09-05 22:23:34,180 - INFO - MAE: 72.32167221583563, RMSE: 220.1117926593166, MSE: 48449.20126769797
+2024-09-05 22:23:34,306 - INFO - Loss plot saved as loss_plot_rakhine.png
+2024-09-05 22:23:34,472 - INFO - Plot saved as predicted_vs_actual_rakhine.png
+2024-09-05 22:26:32,127 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-05 22:26:32,130 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-26-32.txt
+2024-09-05 22:26:36,309 - INFO - Loss plot saved as logs/loss_plot_shan.png
+2024-09-05 22:26:36,309 - INFO - Market: shan, MAE: 0.139723131986302, RMSE: 0.19648586617901168, MSE: 0.038606695608116484, Accuracy: 85.41136556403733%, Duration: 181.5699541568756 seconds
+2024-09-05 22:26:36,350 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-05 22:26:36,354 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-26-36.txt
+2024-09-05 22:26:36,857 - INFO - Test Loss for shan: 0.038606684654951096
+2024-09-05 22:26:37,413 - INFO - MAE: 140.30687044729845, RMSE: 284.2756426551468, MSE: 80812.6410069967
+2024-09-05 22:26:37,536 - INFO - Loss plot saved as loss_plot_shan.png
+2024-09-05 22:26:37,666 - INFO - Plot saved as predicted_vs_actual_shan.png
+2024-09-05 22:28:24,391 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-05 22:28:24,395 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-28-24.txt
+2024-09-05 22:28:28,139 - INFO - Loss plot saved as logs/loss_plot_kachin.png
+2024-09-05 22:28:28,139 - INFO - Market: kachin, MAE: 0.09637668031867079, RMSE: 0.15834805684063336, MSE: 0.025074107105204455, Accuracy: 83.3107803337844%, Duration: 110.23452949523926 seconds
+2024-09-05 22:28:28,181 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-05 22:28:28,184 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-28-28.txt
+2024-09-05 22:28:28,526 - INFO - Test Loss for kachin: 0.025074107572436333
+2024-09-05 22:28:28,862 - INFO - MAE: 88.23858116855374, RMSE: 188.09020134892089, MSE: 35377.923843477605
+2024-09-05 22:28:28,975 - INFO - Loss plot saved as loss_plot_kachin.png
+2024-09-05 22:28:29,103 - INFO - Plot saved as predicted_vs_actual_kachin.png
+2024-09-05 22:29:12,333 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-05 22:29:12,337 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-29-12.txt
+2024-09-05 22:29:15,871 - INFO - Loss plot saved as logs/loss_plot_mon.png
+2024-09-05 22:29:15,871 - INFO - Market: mon, MAE: 0.11628796606916894, RMSE: 0.1688451428936948, MSE: 0.028508682278792212, Accuracy: 88.2747068676717%, Duration: 46.53405404090881 seconds
+2024-09-05 22:29:15,911 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-05 22:29:15,915 - INFO - Model summary saved as logs/model_summary_2024-09-05-22-29-15.txt
+2024-09-05 22:29:16,028 - INFO - Test Loss for mon: 0.028508685529232025
+2024-09-05 22:29:16,136 - INFO - MAE: 98.47131001688128, RMSE: 215.187229172003, MSE: 46305.543598724136
+2024-09-05 22:29:16,248 - INFO - Loss plot saved as loss_plot_mon.png
+2024-09-05 22:29:16,370 - INFO - Plot saved as predicted_vs_actual_mon.png
+2024-09-06 06:19:51,303 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-06 06:19:51,313 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-19-51.txt
+2024-09-06 06:19:55,750 - INFO - Loss plot saved as logs/loss_plot_kayah.png
+2024-09-06 06:19:55,750 - INFO - Market: kayah, MAE: 0.11077779359805635, RMSE: 0.1866848800590219, MSE: 0.03485124444265139, Accuracy: 86.91983122362869%, Duration: 33.27489423751831 seconds
+2024-09-06 06:19:55,787 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-06 06:19:55,791 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-19-55.txt
+2024-09-06 06:19:55,864 - INFO - Test Loss for kayah: 0.03485124185681343
+2024-09-06 06:19:55,938 - INFO - MAE: 100.82767872741957, RMSE: 209.64181879067786, MSE: 43949.692185863416
+2024-09-06 06:19:56,068 - INFO - Loss plot saved as loss_plot_kayah.png
+2024-09-06 06:19:56,180 - INFO - Plot saved as predicted_vs_actual_kayah.png
+2024-09-06 06:20:30,643 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-06 06:20:30,647 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-20-30.txt
+2024-09-06 06:20:34,159 - INFO - Loss plot saved as logs/loss_plot_kayin.png
+2024-09-06 06:20:34,159 - INFO - Market: kayin, MAE: 0.14881760004821662, RMSE: 0.19784244734173162, MSE: 0.03914163397016585, Accuracy: 86.83473389355743%, Duration: 37.76070809364319 seconds
+2024-09-06 06:20:34,195 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-06 06:20:34,199 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-20-34.txt
+2024-09-06 06:20:34,275 - INFO - Test Loss for kayin: 0.03914163261651993
+2024-09-06 06:20:34,360 - INFO - MAE: 126.9397260222448, RMSE: 253.47504097581208, MSE: 64249.59639768962
+2024-09-06 06:20:34,474 - INFO - Loss plot saved as loss_plot_kayin.png
+2024-09-06 06:20:34,594 - INFO - Plot saved as predicted_vs_actual_kayin.png
+2024-09-06 06:21:28,809 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-06 06:21:28,813 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-21-28.txt
+2024-09-06 06:21:32,454 - INFO - Loss plot saved as logs/loss_plot_magway.png
+2024-09-06 06:21:32,455 - INFO - Market: magway, MAE: 0.08402774449524869, RMSE: 0.13586927045546152, MSE: 0.01846045865409935, Accuracy: 92.831541218638%, Duration: 57.61710810661316 seconds
+2024-09-06 06:21:32,496 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-06 06:21:32,500 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-21-32.txt
+2024-09-06 06:21:32,634 - INFO - Test Loss for magway: 0.018460456281900406
+2024-09-06 06:21:32,791 - INFO - MAE: 78.6106896083016, RMSE: 175.77270850666918, MSE: 30896.045055770486
+2024-09-06 06:21:32,925 - INFO - Loss plot saved as loss_plot_magway.png
+2024-09-06 06:21:33,047 - INFO - Plot saved as predicted_vs_actual_magway.png
+2024-09-06 06:22:16,439 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-06 06:22:16,443 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-22-16.txt
+2024-09-06 06:22:19,965 - INFO - Loss plot saved as logs/loss_plot_tanintharyi.png
+2024-09-06 06:22:19,965 - INFO - Market: tanintharyi, MAE: 0.17722108249710042, RMSE: 0.2112108301070035, MSE: 0.044610014754489495, Accuracy: 80.26070763500931%, Duration: 46.66745734214783 seconds
+2024-09-06 06:22:20,008 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-06 06:22:20,012 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-22-20.txt
+2024-09-06 06:22:20,112 - INFO - Test Loss for tanintharyi: 0.04461001977324486
+2024-09-06 06:22:20,212 - INFO - MAE: 131.66602403580364, RMSE: 216.8749717219291, MSE: 47034.75335938755
+2024-09-06 06:22:20,325 - INFO - Loss plot saved as loss_plot_tanintharyi.png
+2024-09-06 06:22:20,440 - INFO - Plot saved as predicted_vs_actual_tanintharyi.png
+2024-09-06 06:22:58,907 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-06 06:22:58,911 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-22-58.txt
+2024-09-06 06:23:02,377 - INFO - Loss plot saved as logs/loss_plot_sagaing.png
+2024-09-06 06:23:02,377 - INFO - Market: sagaing, MAE: 0.07788113664025925, RMSE: 0.1520930126853585, MSE: 0.023132284507708618, Accuracy: 92.87211740041928%, Duration: 41.71016454696655 seconds
+2024-09-06 06:23:02,416 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-06 06:23:02,420 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-23-02.txt
+2024-09-06 06:23:02,519 - INFO - Test Loss for sagaing: 0.02313227951526642
+2024-09-06 06:23:02,612 - INFO - MAE: 80.88052114810581, RMSE: 207.655426419662, MSE: 43120.776121531664
+2024-09-06 06:23:02,724 - INFO - Loss plot saved as loss_plot_sagaing.png
+2024-09-06 06:23:02,839 - INFO - Plot saved as predicted_vs_actual_sagaing.png
+2024-09-06 06:24:05,487 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-06 06:24:05,491 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-24-05.txt
+2024-09-06 06:24:09,008 - INFO - Loss plot saved as logs/loss_plot_chin.png
+2024-09-06 06:24:09,008 - INFO - Market: chin, MAE: 0.08857937526544264, RMSE: 0.14843897462257555, MSE: 0.02203412918700163, Accuracy: 93.051890941073%, Duration: 65.93717575073242 seconds
+2024-09-06 06:24:09,041 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-06 06:24:09,360 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-24-09.txt
+2024-09-06 06:24:09,549 - INFO - Test Loss for chin: 0.02203412912786007
+2024-09-06 06:24:09,777 - INFO - MAE: 63.46182703828435, RMSE: 144.74906578336248, MSE: 20952.2920451562
+2024-09-06 06:24:09,892 - INFO - Loss plot saved as loss_plot_chin.png
+2024-09-06 06:24:10,013 - INFO - Plot saved as predicted_vs_actual_chin.png
+2024-09-06 06:25:06,969 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-06 06:25:06,973 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-25-06.txt
+2024-09-06 06:25:10,472 - INFO - Loss plot saved as logs/loss_plot_yangon.png
+2024-09-06 06:25:10,472 - INFO - Market: yangon, MAE: 0.09200113869625054, RMSE: 0.13961973484110612, MSE: 0.01949367035710078, Accuracy: 83.2810867293626%, Duration: 60.226898193359375 seconds
+2024-09-06 06:25:10,509 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-06 06:25:10,512 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-25-10.txt
+2024-09-06 06:25:10,672 - INFO - Test Loss for yangon: 0.019493671134114265
+2024-09-06 06:25:10,842 - INFO - MAE: 67.26352631029789, RMSE: 142.26935005894856, MSE: 20240.567966195646
+2024-09-06 06:25:10,962 - INFO - Loss plot saved as loss_plot_yangon.png
+2024-09-06 06:25:11,082 - INFO - Plot saved as predicted_vs_actual_yangon.png
+2024-09-06 06:25:49,334 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-06 06:25:49,337 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-25-49.txt
+2024-09-06 06:25:52,820 - INFO - Loss plot saved as logs/loss_plot_mandalay.png
+2024-09-06 06:25:52,820 - INFO - Market: mandalay, MAE: 0.1532347455224847, RMSE: 0.18438987588606445, MSE: 0.033999626329278256, Accuracy: 85.9538784067086%, Duration: 41.51475667953491 seconds
+2024-09-06 06:25:52,855 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-06 06:25:52,858 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-25-52.txt
+2024-09-06 06:25:52,951 - INFO - Test Loss for mandalay: 0.03399962931871414
+2024-09-06 06:25:53,052 - INFO - MAE: 129.1545922237372, RMSE: 202.99283811477014, MSE: 41206.09232588928
+2024-09-06 06:25:53,163 - INFO - Loss plot saved as loss_plot_mandalay.png
+2024-09-06 06:25:53,281 - INFO - Plot saved as predicted_vs_actual_mandalay.png
+2024-09-06 06:28:05,818 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-06 06:28:05,821 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-28-05.txt
+2024-09-06 06:28:09,971 - INFO - Loss plot saved as logs/loss_plot_rakhine.png
+2024-09-06 06:28:09,971 - INFO - Market: rakhine, MAE: 0.0956114485243903, RMSE: 0.1650046634635816, MSE: 0.02722653896472983, Accuracy: 87.62095428762096%, Duration: 136.42980074882507 seconds
+2024-09-06 06:28:10,012 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-06 06:28:10,015 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-28-10.txt
+2024-09-06 06:28:10,472 - INFO - Test Loss for rakhine: 0.027226539328694344
+2024-09-06 06:28:10,933 - INFO - MAE: 70.37360818561889, RMSE: 217.89751501928598, MSE: 47479.32705157995
+2024-09-06 06:28:11,057 - INFO - Loss plot saved as loss_plot_rakhine.png
+2024-09-06 06:28:11,187 - INFO - Plot saved as predicted_vs_actual_rakhine.png
+2024-09-06 06:30:47,701 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-06 06:30:47,704 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-30-47.txt
+2024-09-06 06:30:51,592 - INFO - Loss plot saved as logs/loss_plot_shan.png
+2024-09-06 06:30:51,592 - INFO - Market: shan, MAE: 0.125100330945729, RMSE: 0.18624937779608083, MSE: 0.034688830729427245, Accuracy: 92.56432004523607%, Duration: 160.13555431365967 seconds
+2024-09-06 06:30:51,632 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-06 06:30:51,635 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-30-51.txt
+2024-09-06 06:30:52,085 - INFO - Test Loss for shan: 0.03468883037567139
+2024-09-06 06:30:52,607 - INFO - MAE: 110.94223030916471, RMSE: 221.05442659527236, MSE: 48865.05951736465
+2024-09-06 06:30:52,730 - INFO - Loss plot saved as loss_plot_shan.png
+2024-09-06 06:30:52,861 - INFO - Plot saved as predicted_vs_actual_shan.png
+2024-09-06 06:32:37,105 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-06 06:32:37,110 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-32-37.txt
+2024-09-06 06:32:40,860 - INFO - Loss plot saved as logs/loss_plot_kachin.png
+2024-09-06 06:32:40,860 - INFO - Market: kachin, MAE: 0.0822176335878894, RMSE: 0.15039080523278495, MSE: 0.022617394298565453, Accuracy: 90.07668019846639%, Duration: 107.75037550926208 seconds
+2024-09-06 06:32:40,898 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-06 06:32:40,902 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-32-40.txt
+2024-09-06 06:32:41,239 - INFO - Test Loss for kachin: 0.022617395967245102
+2024-09-06 06:32:41,601 - INFO - MAE: 66.69430523766985, RMSE: 160.01085250950064, MSE: 25603.47292081717
+2024-09-06 06:32:41,718 - INFO - Loss plot saved as loss_plot_kachin.png
+2024-09-06 06:32:41,838 - INFO - Plot saved as predicted_vs_actual_kachin.png
+2024-09-06 06:33:24,786 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-06 06:33:24,789 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-33-24.txt
+2024-09-06 06:33:28,326 - INFO - Loss plot saved as logs/loss_plot_mon.png
+2024-09-06 06:33:28,326 - INFO - Market: mon, MAE: 0.08902043951605372, RMSE: 0.1444033322051069, MSE: 0.02085232235193846, Accuracy: 88.60971524288107%, Duration: 46.25810480117798 seconds
+2024-09-06 06:33:28,360 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-06 06:33:28,366 - INFO - Model summary saved as logs/model_summary_2024-09-06-06-33-28.txt
+2024-09-06 06:33:28,478 - INFO - Test Loss for mon: 0.02085232175886631
+2024-09-06 06:33:28,592 - INFO - MAE: 73.03768640361638, RMSE: 174.3932870726877, MSE: 30413.01857601687
+2024-09-06 06:33:28,701 - INFO - Loss plot saved as loss_plot_mon.png
+2024-09-06 06:33:28,824 - INFO - Plot saved as predicted_vs_actual_mon.png
+2024-09-06 11:00:53,604 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-06 11:00:53,612 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-00-53.txt
+2024-09-06 11:00:58,602 - INFO - Loss plot saved as logs/loss_plot_kayah.png
+2024-09-06 11:00:58,602 - INFO - Market: kayah, MAE: 0.16747408754962204, RMSE: 0.2682325375990141, MSE: 0.07194869422680653, Accuracy: 87.34177215189874%, Duration: 30.143224477767944 seconds
+2024-09-06 11:00:58,640 - INFO - Model saved as data/model/lstm_model_kayah.keras
+2024-09-06 11:00:58,649 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-00-58.txt
+2024-09-06 11:00:58,716 - INFO - Test Loss for kayah: 0.07194869965314865
+2024-09-06 11:00:58,824 - INFO - MAE: 158.80108870751747, RMSE: 322.2575106400277, MSE: 103849.90316390755
+2024-09-06 11:00:58,950 - INFO - Loss plot saved as loss_plot_kayah.png
+2024-09-06 11:00:59,067 - INFO - Plot saved as predicted_vs_actual_kayah.png
+2024-09-06 11:01:27,407 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-06 11:01:27,411 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-01-27.txt
+2024-09-06 11:01:31,375 - INFO - Loss plot saved as logs/loss_plot_kayin.png
+2024-09-06 11:01:31,375 - INFO - Market: kayin, MAE: 0.16685600420527585, RMSE: 0.2510565040702245, MSE: 0.06302936823596265, Accuracy: 83.75350140056022%, Duration: 32.0593535900116 seconds
+2024-09-06 11:01:31,407 - INFO - Model saved as data/model/lstm_model_kayin.keras
+2024-09-06 11:01:31,411 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-01-31.txt
+2024-09-06 11:01:31,495 - INFO - Test Loss for kayin: 0.06302936375141144
+2024-09-06 11:01:31,601 - INFO - MAE: 157.0297671637014, RMSE: 337.24241654572256, MSE: 113732.44751759863
+2024-09-06 11:01:31,722 - INFO - Loss plot saved as loss_plot_kayin.png
+2024-09-06 11:01:31,854 - INFO - Plot saved as predicted_vs_actual_kayin.png
+2024-09-06 11:02:23,363 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-06 11:02:23,375 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-02-23.txt
+2024-09-06 11:02:28,708 - INFO - Loss plot saved as logs/loss_plot_magway.png
+2024-09-06 11:02:28,708 - INFO - Market: magway, MAE: 0.16886068328502668, RMSE: 0.2111280751052325, MSE: 0.04457506409764069, Accuracy: 79.09199522102747%, Duration: 56.62363576889038 seconds
+2024-09-06 11:02:28,742 - INFO - Model saved as data/model/lstm_model_magway.keras
+2024-09-06 11:02:28,746 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-02-28.txt
+2024-09-06 11:02:28,920 - INFO - Test Loss for magway: 0.04457506537437439
+2024-09-06 11:02:29,076 - INFO - MAE: 152.5962267235103, RMSE: 266.4422101910294, MSE: 70991.45137148068
+2024-09-06 11:02:29,481 - INFO - Loss plot saved as loss_plot_magway.png
+2024-09-06 11:02:29,610 - INFO - Plot saved as predicted_vs_actual_magway.png
+2024-09-06 11:03:01,119 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-06 11:03:01,123 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-03-01.txt
+2024-09-06 11:03:04,674 - INFO - Loss plot saved as logs/loss_plot_tanintharyi.png
+2024-09-06 11:03:04,674 - INFO - Market: tanintharyi, MAE: 0.12803812687550697, RMSE: 0.1958330184817204, MSE: 0.03835057112766185, Accuracy: 80.07448789571696%, Duration: 34.75859975814819 seconds
+2024-09-06 11:03:04,715 - INFO - Model saved as data/model/lstm_model_tanintharyi.keras
+2024-09-06 11:03:04,720 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-03-04.txt
+2024-09-06 11:03:04,845 - INFO - Test Loss for tanintharyi: 0.03835057094693184
+2024-09-06 11:03:04,962 - INFO - MAE: 113.7120974134733, RMSE: 234.48572242527533, MSE: 54983.554021303265
+2024-09-06 11:03:05,080 - INFO - Loss plot saved as loss_plot_tanintharyi.png
+2024-09-06 11:03:05,206 - INFO - Plot saved as predicted_vs_actual_tanintharyi.png
+2024-09-06 11:03:35,817 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-06 11:03:35,821 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-03-35.txt
+2024-09-06 11:03:39,904 - INFO - Loss plot saved as logs/loss_plot_sagaing.png
+2024-09-06 11:03:39,904 - INFO - Market: sagaing, MAE: 0.11677730010030225, RMSE: 0.19436082141241284, MSE: 0.037776128900107835, Accuracy: 87.84067085953879%, Duration: 34.4301655292511 seconds
+2024-09-06 11:03:39,938 - INFO - Model saved as data/model/lstm_model_sagaing.keras
+2024-09-06 11:03:39,942 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-03-39.txt
+2024-09-06 11:03:40,033 - INFO - Test Loss for sagaing: 0.03777613118290901
+2024-09-06 11:03:40,127 - INFO - MAE: 132.19537772188644, RMSE: 294.5337380689963, MSE: 86750.12286089611
+2024-09-06 11:03:40,246 - INFO - Loss plot saved as loss_plot_sagaing.png
+2024-09-06 11:03:40,366 - INFO - Plot saved as predicted_vs_actual_sagaing.png
+2024-09-06 11:04:25,145 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-06 11:04:25,149 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-04-25.txt
+2024-09-06 11:04:28,946 - INFO - Loss plot saved as logs/loss_plot_chin.png
+2024-09-06 11:04:28,947 - INFO - Market: chin, MAE: 0.09558645373785453, RMSE: 0.15755484375796996, MSE: 0.024823528791598326, Accuracy: 92.0844327176781%, Duration: 48.34755563735962 seconds
+2024-09-06 11:04:28,983 - INFO - Model saved as data/model/lstm_model_chin.keras
+2024-09-06 11:04:28,987 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-04-28.txt
+2024-09-06 11:04:29,160 - INFO - Test Loss for chin: 0.02482352964580059
+2024-09-06 11:04:29,352 - INFO - MAE: 74.53666040318201, RMSE: 162.0886030759966, MSE: 26272.715247127966
+2024-09-06 11:04:29,467 - INFO - Loss plot saved as loss_plot_chin.png
+2024-09-06 11:04:29,608 - INFO - Plot saved as predicted_vs_actual_chin.png
+2024-09-06 11:05:10,527 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-06 11:05:10,531 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-05-10.txt
+2024-09-06 11:05:14,114 - INFO - Loss plot saved as logs/loss_plot_yangon.png
+2024-09-06 11:05:14,114 - INFO - Market: yangon, MAE: 0.13806883206402945, RMSE: 0.179551403035478, MSE: 0.03223870633200866, Accuracy: 79.83281086729363%, Duration: 44.269777059555054 seconds
+2024-09-06 11:05:14,148 - INFO - Model saved as data/model/lstm_model_yangon.keras
+2024-09-06 11:05:14,151 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-05-14.txt
+2024-09-06 11:05:14,306 - INFO - Test Loss for yangon: 0.032238706946372986
+2024-09-06 11:05:14,474 - INFO - MAE: 104.43789217989772, RMSE: 184.54964381840892, MSE: 34058.5710335016
+2024-09-06 11:05:14,599 - INFO - Loss plot saved as loss_plot_yangon.png
+2024-09-06 11:05:14,721 - INFO - Plot saved as predicted_vs_actual_yangon.png
+2024-09-06 11:05:43,935 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-06 11:05:43,939 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-05-43.txt
+2024-09-06 11:05:47,880 - INFO - Loss plot saved as logs/loss_plot_mandalay.png
+2024-09-06 11:05:47,880 - INFO - Market: mandalay, MAE: 0.13697056902481936, RMSE: 0.18594279705548902, MSE: 0.03457472377681878, Accuracy: 85.1153039832285%, Duration: 32.92515325546265 seconds
+2024-09-06 11:05:47,914 - INFO - Model saved as data/model/lstm_model_mandalay.keras
+2024-09-06 11:05:47,918 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-05-47.txt
+2024-09-06 11:05:48,009 - INFO - Test Loss for mandalay: 0.0345747284591198
+2024-09-06 11:05:48,107 - INFO - MAE: 125.20553800762823, RMSE: 215.69174087318441, MSE: 46522.92708090493
+2024-09-06 11:05:48,222 - INFO - Loss plot saved as loss_plot_mandalay.png
+2024-09-06 11:05:48,332 - INFO - Plot saved as predicted_vs_actual_mandalay.png
+2024-09-06 11:07:31,396 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-06 11:07:31,400 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-07-31.txt
+2024-09-06 11:07:35,517 - INFO - Loss plot saved as logs/loss_plot_rakhine.png
+2024-09-06 11:07:35,517 - INFO - Market: rakhine, MAE: 0.15326421367060405, RMSE: 0.2083901344343939, MSE: 0.04342644812958475, Accuracy: 81.9486152819486%, Duration: 106.91921973228455 seconds
+2024-09-06 11:07:35,555 - INFO - Model saved as data/model/lstm_model_rakhine.keras
+2024-09-06 11:07:35,559 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-07-35.txt
+2024-09-06 11:07:35,950 - INFO - Test Loss for rakhine: 0.043426431715488434
+2024-09-06 11:07:36,367 - INFO - MAE: 103.48552028916937, RMSE: 243.23826370528346, MSE: 59164.85293036102
+2024-09-06 11:07:36,482 - INFO - Loss plot saved as loss_plot_rakhine.png
+2024-09-06 11:07:36,628 - INFO - Plot saved as predicted_vs_actual_rakhine.png
+2024-09-06 11:09:28,614 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-06 11:09:28,618 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-09-28.txt
+2024-09-06 11:09:32,773 - INFO - Loss plot saved as logs/loss_plot_shan.png
+2024-09-06 11:09:32,773 - INFO - Market: shan, MAE: 0.09847037046548024, RMSE: 0.17380229040555245, MSE: 0.030207236150215994, Accuracy: 94.11931014984451%, Duration: 115.86046528816223 seconds
+2024-09-06 11:09:32,812 - INFO - Model saved as data/model/lstm_model_shan.keras
+2024-09-06 11:09:32,817 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-09-32.txt
+2024-09-06 11:09:33,264 - INFO - Test Loss for shan: 0.03020724095404148
+2024-09-06 11:09:33,722 - INFO - MAE: 89.43876698458097, RMSE: 210.3382225440995, MSE: 44242.16786301113
+2024-09-06 11:09:33,856 - INFO - Loss plot saved as loss_plot_shan.png
+2024-09-06 11:09:34,002 - INFO - Plot saved as predicted_vs_actual_shan.png
+2024-09-06 11:10:57,841 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-06 11:10:57,845 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-10-57.txt
+2024-09-06 11:11:02,045 - INFO - Loss plot saved as logs/loss_plot_kachin.png
+2024-09-06 11:11:02,045 - INFO - Market: kachin, MAE: 0.08608356779394274, RMSE: 0.15590139210570045, MSE: 0.024305244060495355, Accuracy: 89.94136220117277%, Duration: 87.7890350818634 seconds
+2024-09-06 11:11:02,080 - INFO - Model saved as data/model/lstm_model_kachin.keras
+2024-09-06 11:11:02,084 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-11-02.txt
+2024-09-06 11:11:02,379 - INFO - Test Loss for kachin: 0.024305246770381927
+2024-09-06 11:11:02,686 - INFO - MAE: 68.63363445331882, RMSE: 162.0281428002433, MSE: 26253.119059296034
+2024-09-06 11:11:02,805 - INFO - Loss plot saved as loss_plot_kachin.png
+2024-09-06 11:11:02,935 - INFO - Plot saved as predicted_vs_actual_kachin.png
+2024-09-06 11:11:36,533 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-06 11:11:36,537 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-11-36.txt
+2024-09-06 11:11:41,051 - INFO - Loss plot saved as logs/loss_plot_mon.png
+2024-09-06 11:11:41,051 - INFO - Market: mon, MAE: 0.12664429300092017, RMSE: 0.18163279042043998, MSE: 0.032990470555915474, Accuracy: 72.52931323283082%, Duration: 37.36465382575989 seconds
+2024-09-06 11:11:41,092 - INFO - Model saved as data/model/lstm_model_mon.keras
+2024-09-06 11:11:41,096 - INFO - Model summary saved as logs/model_summary_2024-09-06-11-11-41.txt
+2024-09-06 11:11:41,218 - INFO - Test Loss for mon: 0.0329904779791832
+2024-09-06 11:11:41,341 - INFO - MAE: 97.99149660452325, RMSE: 198.60220691298272, MSE: 39442.83659070721
+2024-09-06 11:11:41,469 - INFO - Loss plot saved as loss_plot_mon.png
+2024-09-06 11:11:41,594 - INFO - Plot saved as predicted_vs_actual_mon.png

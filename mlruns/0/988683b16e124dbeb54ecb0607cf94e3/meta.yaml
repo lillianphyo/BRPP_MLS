@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/988683b16e124dbeb54ecb0607cf94e3/artifacts
+end_time: 1725551257770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 988683b16e124dbeb54ecb0607cf94e3
+run_name: tanintharyi
+run_uuid: 988683b16e124dbeb54ecb0607cf94e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551211183
+status: 3
+tags: []
+user_id: lillian

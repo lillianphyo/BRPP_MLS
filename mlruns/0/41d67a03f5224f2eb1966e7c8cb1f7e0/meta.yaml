@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/41d67a03f5224f2eb1966e7c8cb1f7e0/artifacts
+deleted_time: 1725550917768
+end_time: 1725549794148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 41d67a03f5224f2eb1966e7c8cb1f7e0
+run_name: mandalay
+run_uuid: 41d67a03f5224f2eb1966e7c8cb1f7e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725549752706
+status: 3
+tags: []
+user_id: lillian

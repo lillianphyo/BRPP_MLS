@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/02b3d7111bd240f9ad2037cc5b6cd457/artifacts
+deleted_time: 1725545589975
+end_time: 1725543338091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 02b3d7111bd240f9ad2037cc5b6cd457
+run_name: victorious-grub-576
+run_uuid: 02b3d7111bd240f9ad2037cc5b6cd457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543284030
+status: 3
+tags: []
+user_id: lillian

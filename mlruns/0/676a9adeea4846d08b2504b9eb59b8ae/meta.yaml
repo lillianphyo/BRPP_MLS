@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/676a9adeea4846d08b2504b9eb59b8ae/artifacts
+deleted_time: 1725545589965
+end_time: 1725543755599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 676a9adeea4846d08b2504b9eb59b8ae
+run_name: monumental-hen-654
+run_uuid: 676a9adeea4846d08b2504b9eb59b8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543656892
+status: 3
+tags: []
+user_id: lillian

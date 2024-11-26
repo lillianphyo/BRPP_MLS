@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e7441038b1804278a0dcf0ea7964cc68/artifacts
+deleted_time: 1725550917761
+end_time: 1725549621255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e7441038b1804278a0dcf0ea7964cc68
+run_name: sagaing
+run_uuid: e7441038b1804278a0dcf0ea7964cc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725549577941
+status: 3
+tags: []
+user_id: lillian

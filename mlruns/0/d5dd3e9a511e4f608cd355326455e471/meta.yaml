@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d5dd3e9a511e4f608cd355326455e471/artifacts
+deleted_time: 1725545589963
+end_time: 1725543789591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d5dd3e9a511e4f608cd355326455e471
+run_name: honorable-hound-333
+run_uuid: d5dd3e9a511e4f608cd355326455e471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543756672
+status: 3
+tags: []
+user_id: lillian

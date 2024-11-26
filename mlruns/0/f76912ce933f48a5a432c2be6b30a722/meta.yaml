@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f76912ce933f48a5a432c2be6b30a722/artifacts
+deleted_time: 1725545589975
+end_time: 1725543365922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f76912ce933f48a5a432c2be6b30a722
+run_name: amusing-flea-637
+run_uuid: f76912ce933f48a5a432c2be6b30a722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543338845
+status: 3
+tags: []
+user_id: lillian

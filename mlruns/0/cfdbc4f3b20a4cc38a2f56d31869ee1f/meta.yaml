@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfdbc4f3b20a4cc38a2f56d31869ee1f/artifacts
+end_time: 1725551796309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfdbc4f3b20a4cc38a2f56d31869ee1f
+run_name: shan
+run_uuid: cfdbc4f3b20a4cc38a2f56d31869ee1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551614593
+status: 3
+tags: []
+user_id: lillian

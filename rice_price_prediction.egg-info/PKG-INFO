@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: rice_price_prediction
+Version: 0.1.0
+Summary: A project for predicting rice prices using LSTM models
+Home-page: https://github.com/lillainphyo/rice_price_prediction
+Author: Lillian Phyo
+Author-email: khinpyaephyosan@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: flask
+Requires-Dist: mlflow
+Requires-Dist: tensorflow
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: psutil
+Requires-Dist: pytest
+
+

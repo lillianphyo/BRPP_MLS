@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4b080a058a6545b59c76c9b183f8b6ac/artifacts
+deleted_time: 1725549056539
+end_time: 1725546962331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4b080a058a6545b59c76c9b183f8b6ac
+run_name: magway
+run_uuid: 4b080a058a6545b59c76c9b183f8b6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546917520
+status: 3
+tags: []
+user_id: lillian

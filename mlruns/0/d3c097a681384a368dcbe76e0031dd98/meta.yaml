@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d3c097a681384a368dcbe76e0031dd98/artifacts
+end_time: 1725580510472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3c097a681384a368dcbe76e0031dd98
+run_name: yangon
+run_uuid: d3c097a681384a368dcbe76e0031dd98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725580450108
+status: 3
+tags: []
+user_id: lillian
